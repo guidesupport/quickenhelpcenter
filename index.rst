@@ -1,7 +1,7 @@
 Quicken.com – Portal to Download Quicken on your Device
 =====================================================
 
-Looking to manage your personal or business finances with ease? Quicken.com is your go-to portal to **`download Quicken <https://www.quicken.com>`_**, whether you’ve already purchased it or are installing it for the first time. Get step-by-step instructions for Windows and Mac, activation tips, and troubleshooting help in one place.
+Looking to manage your personal or business finances with ease? Quicken.com is your go-to portal to `download Quicken <https://www.quicken.com>`_, whether you’ve already purchased it or are installing it for the first time. Get step-by-step instructions for Windows and Mac, activation tips, and troubleshooting help in one place.
 
 .. image:: get-started-here.png
    :alt: Quicken.com Download Portal
